@@ -1,0 +1,11 @@
+.cabecalho{
+    background-color:rgba(4, 95, 95, 0.404);
+    color:rgb(17, 10, 27);
+    text-align: center;
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+.principal{
+   background-color:rgb(158, 184, 175);
+   color:rgba(17, 0, 0, 0.514);
